@@ -1,0 +1,16 @@
+name: InheritanceTax
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - PyTables
+  - spacy
+  - xlrd
+  - openpyxl
+
