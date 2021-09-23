@@ -1,6 +1,6 @@
 # Der effektive Wert des erbschaftsteuerlichen Freibetrags – Entwicklung einer Referenzgröße als Basis für normative Diskussionen 
 
-Python- und R--Code zu der Veröffentlichung von Diller/Kittl/Lorenz in der Zeitschrift Steuer und Wirtschaft (StuW), 2021.
+Python- und R-Code zu der Veröffentlichung von Diller/Kittl/Lorenz in der Zeitschrift Steuer und Wirtschaft (StuW), 2021.
 
 Die Berechnungen basieren insb. auf den vom Statistischen Bundesamt veröffentlichten Periodensterbetafeln für Deutschland 2018/2020. 
 
