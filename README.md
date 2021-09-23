@@ -6,12 +6,12 @@ Die Berechnungen basieren insb. auf den vom Statistischen Bundesamt veröffentli
 
 
 <ul>
-	<li>Erster Schritt: R code (Ordner: R_code) ausführen, um die Sterbewahrscheinlichkeiten für hohe Alter (bis 112) zu schätzen. Das Statistische Bundesamt stellt nur die Daten bis Alter 100 zur Verfügung. Die Daten werden als csv-Dateien in dem Ordner 2_temp_files gespeichert.</li>
-	<li>Zweiter Schritt: Python code (Ordner 1_code) ausführen (am besten in Jupyter Lab) um die effektiven erbschaftsteuerlichen Freibeträge zu berechnen.</li>
+	<li>Erster Schritt: R-code (Ordner: R_code) ausführen, um die Sterbewahrscheinlichkeiten für hohe Alter (bis 112) zu schätzen (das Statistische Bundesamt stellt nur die Daten bis Alter 100 zur Verfügung). Die Daten werden als csv-Dateien in dem Ordner 2_temp_files gespeichert.</li>
+	<li>Zweiter Schritt: Python-code (Ordner 1_code) ausführen (am besten in Jupyter Lab), um die effektiven erbschaftsteuerlichen Freibeträge zu berechnen.</li>
 </ul>
 
 
---Die Autoren
+–Die Autoren
 
 
 # The effective value of the German inheritance tax allowance – development of a reference value as a basis for normative discussions
@@ -22,8 +22,8 @@ Calculations are based on mortality rates of German citizens as published by the
 
 
 <ul>
-	<li>First step: run the R code (folder: R_code) to extend the mortality rates for high ages (up to 112). The German Federal Statistical Office only provides data for ages up to 100. Results are saved in the folder 2_temp_files as csv files.</li>
-	<li>Second step: run the python code (folder 1_code; we use Jupyter Lab) to estimate effective inheritance tax allowances.</li>
+	<li>First step: run the R code (folder: R_code) to extend the mortality rates for high ages (up to 112). (The German Federal Statistical Office only provides data for ages up to 100.) Results are saved in the folder 2_temp_files as csv files.</li>
+	<li>Second step: run the python code (folder 1_code; we use Jupyter Lab) to estimate effective inheritance tax allowance.</li>
 </ul>
 
--- The authors
+–The authors
