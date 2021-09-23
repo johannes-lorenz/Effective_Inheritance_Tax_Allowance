@@ -6,7 +6,7 @@ Die Berechnungen basieren insb. auf den vom Statistischen Bundesamt veröffentli
 
 
 <ul>
-	<li>Erster Schritt: R code (Ordner: R_code) ausführen, um die Sterbewahrscheinlichkeiten für hohe Alter (112) zu schätzen. Das Statistische Bundesamt stellt nur die Daten bis Alter 100 zur Verfügung. Die Daten werden als csv-Dateien in dem Ordner 2_temp_files gespeichert.</li>
+	<li>Erster Schritt: R code (Ordner: R_code) ausführen, um die Sterbewahrscheinlichkeiten für hohe Alter (bis 112) zu schätzen. Das Statistische Bundesamt stellt nur die Daten bis Alter 100 zur Verfügung. Die Daten werden als csv-Dateien in dem Ordner 2_temp_files gespeichert.</li>
 	<li>Zweiter Schritt: Python code (Ordner 1_code) ausführen (am besten in Jupyter Lab) um die effektiven erbschaftsteuerlichen Freibeträge zu berechnen.</li>
 </ul>
 
