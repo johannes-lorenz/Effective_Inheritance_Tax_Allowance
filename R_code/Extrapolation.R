@@ -1,6 +1,4 @@
-# working directory festlegen
 
-setwd("/Users/johannes/GitHub/Effective_Inheritance_Tax_Allowance")
 
 # benötigte Pakete laden
 library(readxl)
