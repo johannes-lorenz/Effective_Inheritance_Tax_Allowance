@@ -1,6 +1,6 @@
 # Der effektive Wert des erbschaftsteuerlichen Freibetrags – Entwicklung einer Referenzgröße als Basis für normative Diskussionen 
 
-Python- und R-Code zu der Veröffentlichung von Diller/Kittl/Lorenz in der Zeitschrift Steuer und Wirtschaft (StuW), 2021.
+Python- und R-Code zu der Veröffentlichung von Diller/Kittl/Lorenz in der Zeitschrift Steuer und Wirtschaft (StuW) 2021 (4), S. 337.
 
 Die Berechnungen basieren insb. auf den vom Statistischen Bundesamt veröffentlichten Periodensterbetafeln für Deutschland 2018/2020. 
 
@@ -17,7 +17,7 @@ Die Berechnungen basieren insb. auf den vom Statistischen Bundesamt veröffentli
 
 # The effective value of the German inheritance tax allowance – development of a reference value as a basis for normative discussions
 
-This repository contains python and R code for the aforementioned study (forthcoming in “Steuer und Wirtschaft”; the article is written in German language). 
+This repository contains python and R code for the aforementioned study (published in Steuer und Wirtschaft (StuW) 2021(4), p. 337; the article is written in German language). 
 
 Calculations are based on mortality rates of German citizens as published by the German Federal Statistical Office. 
 
